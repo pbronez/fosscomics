@@ -170,7 +170,7 @@ Now C was powerful enough to write a Unix kernel.
 > "Hmm. Far less assembly now."
 :::
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 ![A C-themed superhero lifts a UNIX sign while a smaller figure representing assembly language reacts below.](images/hero_en.webp "size:70%")
 
 And so Unix and C came together in a remarkably short time, through the work of Thompson, Ritchie, and their Bell Labs colleagues. Unix and Unix-like systems still run on countless servers, personal computers, and phones. And C is still used to build operating-system kernels and other systems software today.

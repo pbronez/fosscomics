@@ -72,7 +72,7 @@ DEC에서 만든 [PDP 시리즈](https://en.wikipedia.org/wiki/Programmed_Data_P
 > "물론이지. 지금 우리가 초창기 컴퓨터 게임을 만드는 역사적인 순간에 함께 있는거야!"
 :::
 
-:::panel style="margin-bottom: 3rem;margin-top: 3rem;"
+:::panel
 ![두 프로그래머가 밤새 PDP-1 앞에서 작업한다.](images/night_ko.webp "size:70%")
 :::
 

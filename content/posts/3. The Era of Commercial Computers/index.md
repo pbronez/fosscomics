@@ -100,7 +100,7 @@ Donald Knuth, later known for [The Art of Computer Programming](https://en.wikip
 
 :::
 
-:::panel style="margin-top:3rem;"
+:::panel
 ![In an imagined conversation, Joone admires the IBM 650's size, then discovers a second cabinet and a separate card reader and punch beside Knuth.](images/card_reader_en.webp)
 > "Computers have gotten much smaller." \
 > "Not quite." \
@@ -123,7 +123,7 @@ The IBM 608 Transistor Calculator is generally regarded as the first commercial 
 
 ## The First Computer to Achieve Mass Adoption
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 Introduced in 1959, the IBM 1401 mainframe helped usher in the computer age. More than 10,000 systems had been installed by the mid-1960s, and IBM officially retired the machine in 1971. Its popularity earned it the nickname "the Model T of the computer industry"[&lbrack;8&rbrack;][8]. It was also the first computer introduced in South Korea, in 1967[&lbrack;9&rbrack;][9].
 
 ![A woman stands beside an IBM 1401 mainframe.](images/feature_en.webp "<IBM 1401> size:80%")

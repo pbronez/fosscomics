@@ -40,7 +40,7 @@ The PDP-11/70 machine room.
 
 ::::panels columns="2" label=""
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![Thompson smiles from his chair at the terminal.](images/plenty-of-work.en.webp)
 
@@ -50,7 +50,7 @@ The PDP-11/70 machine room.
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![Thompson raises a finger as he explains the Pascal work.](images/pascal-interpreter.en.webp)
 

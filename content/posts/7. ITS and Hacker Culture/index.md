@@ -70,7 +70,7 @@ Members of the Tech Model Railroad Club spent more time with the TX-0 and, later
 > "Of course. This is history. One of the first computer games is being made right now!"
 :::
 
-:::panel style="margin-bottom: 3rem;margin-top: 3rem;"
+:::panel
 ![The two programmers continue working at the PDP-1 through the night.](images/night_en.webp "size:70%")
 :::
 

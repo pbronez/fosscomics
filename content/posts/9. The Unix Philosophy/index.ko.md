@@ -84,7 +84,7 @@ flowchart TB
 > "아니, 농담 말고 진짜 철학을 설명해 주세요."
 :::
 
-:::panel style="margin-bottom: 2rem;"
+:::panel
 ![켄 톰프슨이 한 손을 들어 올리며 담담하게 답한다.](images/shrug_ko.webp "size:60%")
 > "음... 그냥 만들었는데..."
 :::
@@ -145,7 +145,7 @@ flowchart TB
 > "당시 커널은 보통 어셈블리어로 만들었죠. C언어를 개발해서 OS커널을 다시 작성할 생각을 하다니 정말 대단합니다."
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;margin-bottom: 3rem;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![발표자가 한 손을 입가에 대고 화면 밖의 누군가를 부른다.](images/calling_ko.webp "size:90%")
 > "유닉스가 여러 운영체제에 큰 영향을 미친 데에는 기술 말고도 다른 이유가 있었지. 소스 코드가 여기저기 돌아다니곤 했거든. 하지만 그 이야기는 다음 기회에..."\

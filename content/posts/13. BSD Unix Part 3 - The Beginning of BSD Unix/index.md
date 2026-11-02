@@ -93,7 +93,7 @@ Joy did more than fix bugs. He handled every distribution request, copied BSD on
 
 ::::panels columns="2" label=""
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![Bill Joy holds a telephone receiver to his ear as he takes a distribution request.](images/taking-phone-orders.en.webp)
 
@@ -103,7 +103,7 @@ Joy did more than fix bugs. He handled every distribution request, copied BSD on
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![Bill Joy balances the receiver on his shoulder while reading a letter.](images/handling-requests.en.webp)
 

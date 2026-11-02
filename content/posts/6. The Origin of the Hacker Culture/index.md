@@ -17,7 +17,7 @@ Here, "hackers" means people who love exploring computers, building things, and 
 > "In the beginning, there were 'real programmers.'"
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black; margin-bottom: 2rem;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 ![A long-haired, bearded programmer sits cross-legged and imagines rows of binary digits.](images/real_en.webp "size:70%")
 > "What is a real programmer?" \
 > "Thirty years of training... all in machine code."
@@ -58,7 +58,7 @@ MIT's early hacker culture had roots in the Tech Model Railroad Club before the 
 ![A programmer operates a PDP-1 console while music plays beside its paper-tape reader and typewriter.](images/pdp1_en.webp "PDP-1 size:80%")
 :::
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 In the YouTube video below, you can see the music playing and Spacewar! running on PDP-1.
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bzWnaH-0sg?si=Y6mJVLcK9A5pPsQf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display:block; width:100%; max-width:560px; height:auto; aspect-ratio:16 / 9; margin:0 auto; border:0;"></iframe>

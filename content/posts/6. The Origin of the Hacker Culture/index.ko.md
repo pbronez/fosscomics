@@ -15,7 +15,7 @@ tags: 해커, PDP-1, Spacewar!, MIT, LISP, ITS, ARPAnet, 에릭 레이몬드
 > "태초에 진정한 프로그래머가 있었죠 ..."
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black; margin-bottom: 2rem;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 ![긴 머리와 수염을 한 프로그래머가 가부좌를 틀고 앉아 이진수 행렬을 떠올린다.](images/real_ko.webp "size:80%")
 > "진정한 프로그래머란 ..." \
 > "30년간 기계어로 수련 중"
@@ -57,7 +57,7 @@ MIT의 초기 해커 문화는 PDP-1이 도착하기 전 테크 모델 철도 �
 ![한 프로그래머가 PDP-1 콘솔을 조작하고, 옆의 종이테이프 판독기와 타자기 위로 음표가 떠오른다.](images/pdp1_ko.webp "size:80%")
 :::
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 아래 유튜브 동영상에서 PDP-1으로 음악을 연주하고 Spacewar!를 실행하는 모습을 볼 수 있다.
 
 <div style="text-align:center">

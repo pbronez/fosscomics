@@ -51,7 +51,7 @@ tags: BSD, Unix
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![리치가 지시봉으로 유닉스의 주요 기능을 나열한 화면을 가리킨다.](images/features.ko.webp "size:100%")
 
@@ -220,7 +220,7 @@ tags: BSD, Unix
 
 ::::panels columns="2" label=""
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![버클리의 교수가 수화기를 들고 켄 톰슨에게 전화를 건다.](images/call.ko.webp "size:100%")
 
@@ -231,7 +231,7 @@ tags: BSD, Unix
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![켄 톰슨이 한 손을 허리에 얹고 전화로 답한다.](images/sabbatical.ko.webp "size:100%")
 

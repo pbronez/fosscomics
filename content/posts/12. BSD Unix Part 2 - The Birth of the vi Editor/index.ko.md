@@ -40,7 +40,7 @@ PDP-11/70 기계실
 
 ::::panels columns="2" label=""
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![터미널 앞에서 켄 톰슨이 웃으며 대답한다.](images/plenty-of-work.ko.webp)
 
@@ -50,7 +50,7 @@ PDP-11/70 기계실
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![켄 톰슨이 손가락을 들어 파스칼 작업을 설명한다.](images/pascal-interpreter.ko.webp)
 

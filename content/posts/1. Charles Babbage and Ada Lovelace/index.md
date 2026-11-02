@@ -132,7 +132,7 @@ Babbage completed neither the Difference Engine nor the Analytical Engine during
 > "I'm not sure it will ever work."
 :::
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 In 1991, the Science Museum in London completed the calculating section of a working Difference Engine No. 2 based on Babbage's designs. Its printing mechanism followed in 2002. The engine could calculate results to 31 digits. Lovelace's notes remain an important early account of how a general-purpose computing machine could be programmed.
 
 ![A drawing of Difference Engine No. 2 shows its tall columns of gears and calculating mechanism.](images/engine_two_en.webp "Difference Engine No. 2 size:80%")

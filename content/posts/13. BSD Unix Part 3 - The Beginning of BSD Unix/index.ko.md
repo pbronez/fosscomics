@@ -96,7 +96,7 @@ tags: BSD, Unix
 
 ::::panels columns="2" label=""
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![빌 조이가 전화기를 귀에 댄 채 배포 요청을 받는다.](images/taking-phone-orders.ko.webp)
 
@@ -106,7 +106,7 @@ tags: BSD, Unix
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![빌 조이가 수화기를 어깨에 끼우고 편지를 읽는다.](images/handling-requests.ko.webp)
 

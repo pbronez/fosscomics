@@ -85,7 +85,7 @@ To find the answer, we need to understand the Unix philosophy. But Unix did not 
 > "Come on, you must be joking. Tell me the real philosophy."
 :::
 
-:::panel style="margin-bottom: 2rem;"
+:::panel
 ![Ken Thompson raises one hand in a matter-of-fact shrug.](images/shrug_en.webp "size:60%")
 > "Hmm... We just made it."
 :::
@@ -146,7 +146,7 @@ A compiler translates C source code into machine code for its target processor. 
 > "Back then, kernels were usually written in assembly. Developing C and using it to rewrite an OS kernel—that was quite an idea!"
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;margin-bottom: 3rem;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![The presenter holds a hand near his mouth and calls to someone offscreen.](images/calling_en.webp "size:80%")
 > "Unix influenced many operating systems for more than just technical reasons. Its source code had a way of traveling. But that's a story for another time..."\

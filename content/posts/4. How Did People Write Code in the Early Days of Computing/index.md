@@ -116,7 +116,7 @@ Programmers submitted their card decks to a computer-room operator, who loaded e
 > "Next."
 :::
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 Before a program was punched onto cards, copying it could be as simple as transcribing someone else's handwritten source code.
 
 ![Joone glances sideways and secretly copies another programmer's handwritten code before it is entered onto a punched card.](images/copying_en.webp "size:70%")

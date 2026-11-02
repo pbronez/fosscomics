@@ -53,7 +53,7 @@ In 1973, Ken Thompson and Dennis Ritchie presented Unix at the Symposium on Oper
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![Ritchie points to a board listing Unix's main features.](images/features.en.webp "size:100%")
 
@@ -222,7 +222,7 @@ There still wasn't enough computer time. Berkeley bought a newer model, the PDP-
 
 ::::panels columns="2" label=""
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![Fabry calls Thompson on the telephone.](images/call.en.webp "size:100%")
 
@@ -233,7 +233,7 @@ There still wasn't enough computer time. Berkeley bought a newer model, the PDP-
 
 :::
 
-:::panel rounded="true" style="border-width: 3px;border-color: black;padding: 0;"
+:::panel rounded="true" style="border-width: 3px;border-color: black;"
 
 ![Thompson answers the phone with one hand on his hip.](images/sabbatical.en.webp "size:100%")
 

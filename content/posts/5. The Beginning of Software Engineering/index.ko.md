@@ -15,7 +15,7 @@ tags: 소프트웨어 공학, 마거릿 해밀턴, 아폴로 11, 그레이스 �
 > "설치끝!"
 :::
 
-:::panel style="margin-top: 3rem;margin-bottom: 3rem;"
+:::panel
 ![매뉴얼을 든 프로그래머가 허니웰 메인프레임 옆에서 난감한 표정을 짓는다.](images/manual_ko.webp)
 > "어떻게 프로그래밍을 해야하나?"
 :::
@@ -123,7 +123,7 @@ Mark II 팀은 기계의 릴레이 가운데 하나에 나방이 끼어 있는 �
 > "실제 벌레를 발견한 첫 사례."
 :::
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 이처럼 여성들은 초기 프로그래밍에서 선구자적인 역할을 했고, 소프트웨어 공학의 토대를 세우는 데 기여했다.
 
 ![마거릿 해밀턴이 자신이 이끈 팀에서 개발한 아폴로 비행 소프트웨어 출력물 옆에 서 있다.](images/margaret_hamilton.webp "size:50%")

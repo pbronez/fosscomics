@@ -6,7 +6,7 @@ description: "From Harvard to Bell Labs: the life of Dennis Ritchie, creator of 
 tags: C Language, Plan9, Unix
 ---
 
-:::panel style="width: 100%; align:center;"
+:::panel
 
 **The man who built an operating system, using a language he created.**
 
@@ -26,7 +26,7 @@ At the time, Dennis Ritchie led the research group developing the Inferno operat
 
 :::
 
-:::panel style="margin-top: 5rem;margin-bottom: 5rem;"
+:::panel
 
 ![A telephone rings on the desk.](images/phone.webp "size:60%")
 
@@ -342,7 +342,7 @@ As the research group’s leader, Ritchie mainly managed and advised the team. H
 
 :::
 
-:::panel style="margin-top: 3rem;margin-bottom: 5rem;"
+:::panel
 
 Plan 9 was used inside Bell Labs, but finding outside customers was difficult. It did not widely replace Unix.
 

@@ -6,7 +6,7 @@ description: "하버드에서 벨 연구소까지, C언어를 만들고 동료�
 tags: C Language, Plan9, Unix
 ---
 
-:::panel style="width: 100%; align:center;"
+:::panel
 
 **자기가 만든 프로그래밍 언어로 운영체제를 개발한 사람.**
 
@@ -26,7 +26,7 @@ tags: C Language, Plan9, Unix
 
 :::
 
-:::panel style="margin-top: 5rem;margin-bottom: 5rem;"
+:::panel
 
 ![책상 위에서 전화벨이 울린다.](images/phone_ko.webp "size:60%")
 
@@ -343,7 +343,7 @@ tags: C Language, Plan9, Unix
 
 :::
 
-:::panel style="margin-top: 3rem;margin-bottom: 5rem;"
+:::panel
 
 Plan 9은 벨 연구소 내부에서 쓰였지만 외부에서 고객을 찾기는 쉽지 않았다. 유닉스를 널리 대체하지는 못했다.
 

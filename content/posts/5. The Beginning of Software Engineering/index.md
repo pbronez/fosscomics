@@ -15,7 +15,7 @@ Until the 1960s, software was largely treated as part of the hardware. Computers
 > "All set!"
 :::
 
-:::panel style="margin-top: 3rem;margin-bottom: 3rem;"
+:::panel
 ![A programmer holding a manual looks uncertain beside a Honeywell mainframe.](images/manual_en.webp "Honeywell 800 mainframe, 1959")
 > "Now, how do I program it?"
 :::
@@ -123,7 +123,7 @@ They taped the moth into the logbook with the note "First actual case of bug bei
 > "First actual case of bug being found."
 :::
 
-:::panel style="margin-bottom: 5rem;"
+:::panel
 Women played a pioneering role in early programming and helped lay the foundations of software engineering.
 
 ![Margaret Hamilton stands beside a towering stack of printed Apollo flight software developed by her team.](images/margaret_hamilton.webp "size:50%")
